@@ -1,0 +1,7 @@
+{
+	"name": "AzureSqlDatabase1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0f38ecec-5179-43af-b909-baff5b653036/resourceGroups/rp/providers/Microsoft.Sql/servers/ramu",
+		"groupId": "sqlServer"
+	}
+}
