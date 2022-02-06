@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "addffra"
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
